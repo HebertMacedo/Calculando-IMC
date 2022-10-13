@@ -20,7 +20,7 @@ Exemplo uma pessoa com 1,80m e 85kg fará o seguinte cálculo:
 
 - Peso dividido pelo quadrado da altura: 85 / 3,24
 
-Logo, essa pessoa tem IMC de 26,23
+Logo, essa pessoa tem IMC de 26,23 Classificado como Sobrepeso
 
 |      IMC          |  Resultado       |
 | -------------     | -------------    |
