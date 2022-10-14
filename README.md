@@ -12,7 +12,7 @@ A partir desse cálculo é possível avaliar se a pessoa está com um peso ideal
 
 Para determinar o IMC, basta dividir o peso do indivíduo (massa) pela sua altura ao quadrado. A massa deve ser definida em quilogramas (kg) e a altura em metros (m).
 
-![image](https://user-images.githubusercontent.com/74930467/195726641-d96858dc-dafa-4145-8ca3-d93c094f6a3a.png #vitrinedev)
+![image](https://user-images.githubusercontent.com/74930467/195726641-d96858dc-dafa-4145-8ca3-d93c094f6a3a.png)
 
 Exemplo uma pessoa com 1,80m e 85kg fará o seguinte cálculo:
 
